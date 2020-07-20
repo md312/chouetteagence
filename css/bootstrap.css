@@ -1440,6 +1440,15 @@ img {
     height: auto
 }
 
+@media (min-width:768px) {
+    .carousel-inner>.item>a>img,
+    .carousel-inner>.item>img,
+    .img-responsive,
+    .thumbnail a>img,
+    .thumbnail>img{
+        display: inline-block
+    }
+}
 .img-rounded {
     border-radius: 6px
 }
