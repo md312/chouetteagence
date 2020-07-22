@@ -1,0 +1,11 @@
+# Groupe 1
+User-agent: Googlebot
+Allow: /
+
+# Groupe 2
+User-agent: *
+Allow: /
+
+Sitemap: https://md312.github.io/chouetteagence/index.html/sitemap.xml
+
+ 	
